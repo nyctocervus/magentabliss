@@ -3,7 +3,8 @@
         "author": "nycto",
         "version": "0.0.1",
         "name": "magenta bliss",
-        "transparency_mode": 0
+        "transparency_mode": 0,
+        "updater": "https:\/\/raw.githubusercontent.com\/nyctocervus\/magentabliss\/refs\/heads\/main\/magenta_bliss.json"
     },
     "background": {
         "url": "https:\/\/github.com\/nyctocervus\/magentabliss\/raw\/refs\/heads\/main\/Titelloses%2024_20251020015942.png",
