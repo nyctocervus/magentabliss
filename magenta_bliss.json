@@ -1,0 +1,63 @@
+{
+    "manifest": {
+        "author": "nycto",
+        "version": "0.0.1",
+        "name": "magenta bliss",
+        "transparency_mode": 0
+    },
+    "background": {
+        "url": "https:\/\/github.com\/nyctocervus\/magentabliss\/raw\/refs\/heads\/main\/Titelloses%2024_20251020015942.png",
+        "blur_radius": 10
+    },
+    "simple_colors": {
+        "background": -14938592,
+        "input_background": -11655854,
+        "background_secondary": -15136224,
+        "blocked_bg": -15398372,
+        "active_channel": -12055972,
+        "accent": -16736348
+    },
+    "colors": {
+        "primary_dark_360": -8042356,
+        "primary_700": -13237426,
+        "primary_dark_400": -9218186,
+        "white_500": -672790,
+        "primary_dark_200": -1124097,
+        "primary_dark_330": -4217150,
+        "link": -16721961,
+        "brand_new_560": -16729678,
+        "primary_dark_300": -927253,
+        "status_yellow_500": -16711681,
+        "status_yellow_500_alpha_10": 683494077,
+        "primary_dark_800": -15595753,
+        "uikit_btn_compound_color_selector_dark": -1076234,
+        "uikit_settings_item_text_color_dark": -14306626,
+        "uikit_btn_bg_color_selector_red": -16736839,
+        "white_800": -12767163,
+        "dim_foreground_material_light": -15463140,
+        "status_grey_200": -16741748,
+        "primary_dark_630": -15267042,
+        "primary_dark_660": -15267042,
+        "uikit_btn_bg_color_selector_green": -16745074,
+        "uikit_settings_item_text_color_light": -13294539
+    },
+    "drawable_tints": {
+        "ic_channel_text": -5027638,
+        "ic_sidebar_notifications_on_dark_24dp": -3103290,
+        "ic_sidebar_pins_off_dark_24dp": -3103290,
+        "ic_mobile": -12527670,
+        "ic_status_online_16dp": -3931905,
+        "ic_status_idle_16dp": -16711937,
+        "ic_status_dnd_16dp": -11397587,
+        "ic_status_invisible_16dp": -7572599,
+        "drawable_button_grey": -16211017,
+        "drawable_button_red": -13456467,
+        "drawable_voice_indicator_speaking": -16724285
+    },
+    "fonts": {
+        "whitney_medium": "https:\/\/github.com\/nyctocervus\/magentabliss\/raw\/refs\/heads\/main\/ExpletusSans-Medium.ttf",
+        "whitney_semibold": "https:\/\/github.com\/nyctocervus\/magentabliss\/raw\/refs\/heads\/main\/ExpletusSans-SemiBold.ttf",
+        "whitney_bold": "https:\/\/github.com\/nyctocervus\/magentabliss\/raw\/refs\/heads\/main\/ExpletusSans-Bold.ttf"
+    },
+    "raws": {}
+}
